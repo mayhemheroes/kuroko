@@ -1,0 +1,5 @@
+project: kuroko
+target: kuroko
+
+cmds:
+  - cmd: /install/usr/local/bin/kuroko @@
